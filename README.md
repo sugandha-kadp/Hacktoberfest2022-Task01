@@ -1,6 +1,6 @@
-# Hacktoberfest2022-Task01
+## Hacktoberfest2022-Task01
 
-Fix the Palindrome Java program.
+#Fix the Palindrome Java program.
 
 Read the following Instructions
 The Java program has some errors 
