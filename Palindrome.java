@@ -25,7 +25,9 @@ public class Task01 {
 	    {
 	        String arr[] = { "a","b","a","b","a" };
 	        int n = arr.length;
-	 
+	 	//invalid function
 	        abcd(arr, n);
+		//calling palindrome function
+		palindrome(arr,n);
 	    }
 	}
