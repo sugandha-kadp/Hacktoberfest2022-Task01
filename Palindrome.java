@@ -15,7 +15,7 @@ public class Task01 {
 	            }
 	        }
 	 
-	        if (flag == 3)
+	        if (flag == 1)
 	            System.out.println("This is not Palindrome");
 	        else
 	            System.out.println("This is Palindrome");
@@ -25,7 +25,7 @@ public class Task01 {
 	    {
 	        String arr[] = { "a","b","a","b","a" };
 	        int n = arr.length;
-	 
-	        abcd(arr, n);
+	 	palindrome(arr, n);
 	    }
 	}
+
